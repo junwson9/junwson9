@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/reactquery-FF4154?logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/recoil-3578E5?logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/mobx-FF9955?logo=mobx&logoColor=white">
   <img src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
