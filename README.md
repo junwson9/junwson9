@@ -1,5 +1,4 @@
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=221E68&text=&animation=twinkling&height=100)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=008FC7&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+junwoo's+GitHub!👋)](https://git.io/typing-svg)
 
@@ -8,6 +7,7 @@
 
 #
 <hr>
+ <h4>BOJ</h4>
 <!-- <div> -->
 <!--  <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>  -->
 <!-- </div> -->
