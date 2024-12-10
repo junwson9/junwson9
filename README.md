@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white">
  </div>
 </div>
-<hr>
 
 
 <!--
