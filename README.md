@@ -23,11 +23,10 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">  
  </div>
  <div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">  
  </div>
  <div>
   <img src="https://img.shields.io/badge/node.js-grey?style=flat&logo=node.js&logoColor=339933"/>
@@ -53,9 +52,6 @@
 <hr>
 
 
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyeona&layout=compact&theme=synthwave)
 <!--
 **junwson9/junwson9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
