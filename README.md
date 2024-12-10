@@ -20,8 +20,8 @@
  <h4>Tech Stack</h4>
 
  <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/reactquery-FF4154?logo=reactquery&logoColor=white">
   <img src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white">
