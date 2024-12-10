@@ -2,7 +2,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=boaz42)](https://solved.ac/boaz42)
-![junwson9's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwson9&show_icons=true&theme=radical)
 
 <!--
 **junwson9/junwson9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
