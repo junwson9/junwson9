@@ -6,14 +6,7 @@
 <div align="left">
 
 #
-<hr>
- <h4>BOJ</h4>
-<!-- <div> -->
-<!--  <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>  -->
-<!-- </div> -->
-<!--  <hr> -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boaz42)](https://solved.ac/boaz42/)
 
  <hr>
  <div>
@@ -53,6 +46,14 @@
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white">
  </div>
+ <hr>
+ <h4>BOJ</h4>
+<!-- <div> -->
+<!--  <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>  -->
+<!-- </div> -->
+<!--  <hr> -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boaz42)](https://solved.ac/boaz42/)
 </div>
 
 
